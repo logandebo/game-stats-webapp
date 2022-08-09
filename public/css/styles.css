@@ -1,0 +1,9 @@
+.border {
+  border-color: black !important;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.table {
+  margin: 0;
+}
